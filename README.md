@@ -6,7 +6,7 @@ My solutions for a [TIS-100](https://en.wikipedia.org/wiki/TIS-100) game.
 
 Solutions to all levels presented via SaveFile + Screenshot.
 
-### TIS-100 SEGMENT MAP
+### TIS-100 segment map
 
 ![Main Menu image](ScreenShots/MainMenu.jpg)
 
